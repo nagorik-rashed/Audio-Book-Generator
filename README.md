@@ -1,3 +1,5 @@
+![AI-Powered Ebook Generator – Sequence Diagram](atmlab-white@4x.webp)
+
 # AI-Powered Audiobook Generator Workflow
 
 This workflow transforms written ebook chapters into professionally narrated audiobook files using ElevenLab's AI voice synthesis.
