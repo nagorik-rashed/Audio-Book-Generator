@@ -2,13 +2,13 @@
 
 At ATM-Labs, we design intelligent automation workflows and AI agents that simplify complex, repetitive tasks so that your operations become faster, smoother, and more reliable every time.
 
-We focus on building scalable, user-friendly systems that help businesses reduce manual work, minimize errors, and improve productivity. Whether it’s process automation, AI-driven decision support, or custom workflow design, our solutions are tailored to fit real-world needs and grow with your business.
+We focus on building scalable, user-friendly systems that help businesses reduce manual work, minimize errors, and improve productivity. Whether it's process automation, AI-driven decision support, or custom workflow design, our solutions are tailored to fit real-world needs and grow with your business.
 
 You can know more about us and our exeprtise using the links below:
 - 🌐 **Website:** https://atm-labs.io  
 - 📁 **Portfolio:** https://atm-labs.io/workflows
 
-From idea to implementation, we turn complex processes into clean, repeatable systems that teams can use confidently again and again. If you want to make an automation system of your own we can build that for you. You can contact us using the below mail:
+From idea to implementation, we turn complex processes into clean, repeatable systems that teams can use confidently again and again. If you want to make an automation system of your own, we can build that for you. You can contact us using the email below:
 - 📩 **Contact:** workflow@atm-labs.com
 
 # AI-Powered Audiobook Generator Workflow
